@@ -190,18 +190,18 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - Admin — администратор
 
 ## 🚀 Установка и запуск
-- 1. Клонирование репозитория
-`git clone https://github.com/your-repo/CountryHouseBookingSystem.git
+ 1. Клонирование репозитория
+<br>`git clone https://github.com/your-repo/CountryHouseBookingSystem.git
 cd CountryHouseBookingSystem`
-- 2. Установка зависимостей
-`composer install
+ 2. Установка зависимостей
+<br>`composer install
 npm install && npm run build`
-- 3. Настройка окружения
-`cp .env.example .env
+ 3. Настройка окружения
+<br>`cp .env.example .env
 php artisan key:generate`
 
 ## Укажите настройки базы данных в файле .env.
 
-- 4. Миграции и сиды
-`php artisan migrate --seed`
-- 5. Запуск сервера
+ 4. Миграции и сиды
+<br>`php artisan migrate --seed`
+ 5. Запуск сервера
